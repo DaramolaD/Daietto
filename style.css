@@ -86,13 +86,13 @@ nav {
     display: flex;
     list-style: none;
     padding-left: 3rem;
-    padding-right: 0;
+    padding-right: 0 !important;
 }
 .menu_list a {
     font-weight: 700;
 }
 .menu_list .nav_items {
-    padding: 0 0.5rem 0 2.5rem;
+    padding: 0 0.5rem 0 1.5rem;
 }
 .nav_items .login {
     color: #23233C;
